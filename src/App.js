@@ -1,13 +1,12 @@
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-     <header>
-     <div>
-       
+    <div className="App">
+       <h1> BUENAS COMO ESTAS </h1>
     </div>
-      </header>
-     );
+   );
 }
 
 export default App;
